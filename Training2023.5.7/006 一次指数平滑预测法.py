@@ -72,7 +72,7 @@ for kth in range(0,7):#6
     y=[0]
     Y1=[0]
     Y2=[0]
-    alpha=0.3
+    alpha=0.18
     for i in range(1,178):
         x.append(i)
         y.append(y[i-1]+objTot[dictCurrent][i])
